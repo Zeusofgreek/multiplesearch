@@ -16,12 +16,12 @@ body{
     font-size: 2em;
     font-family: monospace;
     font-weight: bold;
-    color: whitesmoke;
+    color: #dfe9ec;
     display: block;
     border: none;
     outline: none;
     background: transparent;
-    border-bottom: solid 2px white;
+    border-bottom: solid 2px #dfe9ec;
     margin-left: auto;
     margin-right: auto;
     margin-top: 400px;
